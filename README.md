@@ -1,4 +1,4 @@
-# Project 3: Natural Language Processing With Reddit #
+# Babies: Fur and Otherwise #
 
 ## Problem Statement ##
 
